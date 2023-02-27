@@ -1,6 +1,6 @@
-# rx
+# ChatCoffer
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
