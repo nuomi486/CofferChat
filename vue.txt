@@ -1,0 +1,60 @@
+<template>
+  <div id="app">
+    <h1>hellow world!</h1>
+    <!-- 路由 router-link 导航标签，主要用于跳转路由 -->
+    <!-- 声明式导航 -->
+    <!-- 通过路由的路径跳转01 -->
+    <!-- <router-link to="/">首页1 &nbsp; </router-link>
+      <router-link to="/classify">分类1</router-link> -->
+
+    <!-- 通过路由的名称跳转02 -->
+    <!-- <router-link :to="{ name: 'Home' }">首页1 &nbsp; </router-link>
+    <router-link :to="{ name: 'Classify' }">分类1</router-link> -->
+
+    <!-- 通过路由的路径跳转03 -->
+    <!-- <router-link :to="{ path: '/' }">首页1 &nbsp; </router-link>
+    <router-link :to="{ path: '/classify' }">分类1</router-link> -->
+
+    <!-- 编程式导航 -->
+    <!-- 通过路由的路径跳转04 -->
+    <button @click="goPage('/')">首页1</button>
+    <button @click="goPage('/classify')">分类1</button>
+    <br>
+    <br>
+     <!-- 通过路由的名称跳转05 -->
+    <button @click="goPage({ name: 'Home' })">首页2</button>
+    <button @click="goPage({ name: 'Classify' })">分类2</button>
+    <br>
+    <br>
+    <!-- 通过路由的路径跳转04 -->
+    <button @click="goPage({ path: '/' })">首页1</button>
+    <button @click="goPage({ path: '/classify' })">分类1</button>
+    <br>
+
+    <!-- 展示匹配路由渲染的组件内容 -->
+    <div class="router-view">
+      <router-view />
+    </div>
+  </div>
+</template>
+<script>
+export default {
+  name:'App',
+  methods:{
+    // 跳转路由
+    goPage(o){
+      this.$router.push(o);
+    }
+  }
+}
+</script>
+
+<style lang="less">
+// #app {
+//   font-family: Avenir, Helvetica, Arial, sans-serif;
+//   -webkit-font-smoothing: antialiased;
+//   -moz-osx-font-smoothing: grayscale;
+//   text-align: center;
+//   color: #2c3e50;
+// }
+</style>
