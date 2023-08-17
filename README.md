@@ -24,7 +24,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 主页：
 
-![image-20230817111655088]([.\images\](https://github.com/nuomi486/CofferChat/Images/image-20230817111655088.png)
+![image-20230817111655088](https://github.com/nuomi486/CofferChat/Images/image-20230817111655088.png)
 
 菜单页：
 
