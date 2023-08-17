@@ -24,36 +24,36 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 主页：
 
-![image-20230817111655088](C:\Users\StickyR\AppData\Roaming\Typora\typora-user-images\image-20230817111655088.png)
+![image-20230817111655088](images\image-20230817111655088.png)
 
 菜单页：
 
-![image-20230817111709137](C:\Users\StickyR\AppData\Roaming\Typora\typora-user-images\image-20230817111709137.png)
+![image-20230817111709137](images\image-20230817111709137.png)
 
 详情页：
 
-![image-20230817111721697](C:\Users\StickyR\AppData\Roaming\Typora\typora-user-images\image-20230817111721697.png)
+![image-20230817111721697](images\image-20230817111721697.png)
 
 搜索页：
 
-![image-20230817111750981](C:\Users\StickyR\AppData\Roaming\Typora\typora-user-images\image-20230817111750981.png)
+![image-20230817111750981](images\image-20230817111750981.png)
 
 加载中：
 
-![image-20230817111944043](C:\Users\StickyR\AppData\Roaming\Typora\typora-user-images\image-20230817111944043.png)
+![image-20230817111944043](images\image-20230817111944043.png)
 
 
 
 购物袋：
 
-![image-20230817112123366](C:\Users\StickyR\AppData\Roaming\Typora\typora-user-images\image-20230817112123366.png)
+![image-20230817112123366](images\image-20230817112123366.png)
 
 订单详情：
 
-![image-20230817112143252](C:\Users\StickyR\AppData\Roaming\Typora\typora-user-images\image-20230817112143252.png)
+![image-20230817112143252](images\image-20230817112143252.png)
 
-![image-20230817112157001](C:\Users\StickyR\AppData\Roaming\Typora\typora-user-images\image-20230817112157001.png)
+![image-20230817112157001](images\image-20230817112157001.png)
 
 我的页:
 
-![image-20230817112213534](C:\Users\StickyR\AppData\Roaming\Typora\typora-user-images\image-20230817112213534.png)
+![image-20230817112213534](images\image-20230817112213534.png)
